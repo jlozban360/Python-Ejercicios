@@ -1,3 +1,10 @@
+'''
+Ejercicio 5. 
+Escribir una función llamada superposición() que reciba dos listas y devuelva True si 
+tienen al menos un miembro en común y False si lo contrario.
+
+'''
+
 # Función que verifica si dos listas tienen al menos un miembro en común
 def superposicion(lista1, lista2):
     for elemento in lista1:

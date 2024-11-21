@@ -1,3 +1,9 @@
+'''
+Ejercicio 4. 
+Escribir un programa que pida una frase e indique si es un palíndromo.
+
+'''
+
 # Función para verificar si una frase es un palíndromo
 def es_palindromo(frase):
     # Eliminar espacios y convertir a minúsculas

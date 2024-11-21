@@ -1,3 +1,15 @@
+'''
+Ejercicio 1.  
+Escribir un algoritmo que, para cualquier número de segundos inferior a un millón, 
+calcule su equivalente en días, horas, minutos y segundos. 
+En este ejercicio tenemos que tener en cuenta que: 
+
+1 minuto = 60 segundos. 
+1 hora = 60 minutos = 3600 segundos. 
+1 dia = 24 horas = 1440 minutos = 86400 segundos.
+
+'''
+
 # Solicitar el número de segundos
 segundos = int(input("Introduce el número de segundos (menos de un millón): "))
 

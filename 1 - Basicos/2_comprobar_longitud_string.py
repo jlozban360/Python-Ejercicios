@@ -1,3 +1,11 @@
+'''
+Ejercicio 2
+Escribe un programa que nos pida el nombre del usuario y compruebe la longitud en caracteres del nombre introducido. 
+Nos dirá si el nombre es largo o se trata de un nombre corto y además en el caso de que el nombre sea largo, nos debe 
+decir si el nombre es compuesto o no.
+
+'''
+
 # Pedimos al usuario que introduzca su nombre
 nombre = input("Introduce tu nombre: ")
 

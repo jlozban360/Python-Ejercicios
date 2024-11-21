@@ -1,3 +1,10 @@
+'''
+Ejercicio 10. 
+Escribir un programa que pida al usuario una palabra y muestre por pantalla si es un 
+palíndromo.
+
+'''
+
 # Pedir una palabra al usuario
 palabra = input("Introduce una palabra: ")
 

@@ -1,3 +1,13 @@
+'''
+Ejercicio 2. 
+ 
+Realizar un programa que tenga una clase Persona con las siguientes características. La 
+clase tendrá como atributos el nombre y la edad de una persona. Implementar los mé
+todos necesarios para inicializar los atributos, mostrar los datos e indicar si la persona 
+es mayor de edad o no.
+
+'''
+
 # Definir la clase Calculadora
 class Calculadora:
     def __init__(self, num1, num2):

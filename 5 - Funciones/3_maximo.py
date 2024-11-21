@@ -1,3 +1,10 @@
+'''
+Ejercicio 3. 
+Escribir una función max() que tome como argumentos dos números e imprima el 
+mayor.
+
+'''
+
 # Función max() para obtener el mayor de dos números
 def maximo(a, b):
     if a > b:

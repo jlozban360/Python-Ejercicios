@@ -1,3 +1,12 @@
+'''
+Ejercicio 6. 
+Escribir un algoritmo que, para una suma de dinero dada, indique 
+cómo descomponerla en billetes y monedas corrientes. Se desea utilizar el mínimo de 
+billetes y monedas. No hay ninguna limitación respecto al número de billetes y 
+monedas disponibles.
+
+'''
+
 # Solicitar la cantidad de dinero
 dinero = float(input("Introduce la cantidad de dinero: "))
 

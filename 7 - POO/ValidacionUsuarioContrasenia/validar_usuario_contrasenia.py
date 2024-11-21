@@ -1,3 +1,12 @@
+'''
+Ejercicio 6. 
+Desarrollar un módulo que solicite al usuario el ingreso de un nombre de usuario y con
+traseña y que los valide utilizando los módulos generados en los dos ejercicios anterio
+res. Ayuda: para contar la cantidad de caracteres de una cadena, en Python se utiliza la 
+función incorporada: len(cadena).
+
+'''
+
 from validar_usuario import validar_usuario
 from validar_contrasenia import validar_contrasenia
 

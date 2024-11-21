@@ -1,3 +1,9 @@
+'''
+Ejercicio 5
+Vamos a hacer un programa que nos pida introducir números hasta que una entrada se deje vacía. El programa debe ir contando cuántos números se introducen y la suma de esos números.
+
+'''
+
 # Inicializar variables para contar y sumar
 contador = 0
 suma = 0

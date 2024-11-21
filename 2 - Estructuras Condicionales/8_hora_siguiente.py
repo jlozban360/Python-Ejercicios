@@ -1,3 +1,11 @@
+'''
+Ejercicio 8. 
+Consideremos una hora expresada en forma de tripleta. Escribir un algoritmo que 
+imprima la hora correspondiente al siguiente segundo. Por ejemplo, para la entrada 
+13,43,24 tiene que devolver 13,43,25. 
+
+'''
+
 # Solicitar la hora en formato tripleta (hora, minuto, segundo)
 hora, minuto, segundo = map(int, input("Introduce la hora (hora, minuto, segundo): ").split(','))
 

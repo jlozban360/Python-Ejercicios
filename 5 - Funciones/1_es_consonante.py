@@ -1,3 +1,9 @@
+'''
+Ejercicio 1. 
+Escribir una función que determine si una letra dada es consonante. 
+
+'''
+
 # Función que determina si una letra es consonante
 def es_consonante(letra):
     # Definir las vocales

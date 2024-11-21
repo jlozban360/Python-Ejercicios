@@ -1,3 +1,12 @@
+'''
+Ejercicio 8
+Una juguetería tiene mucho éxito en dos de sus productos: tambores y patinetes. Suele hacer venta por correo y la empresa de
+logística les cobra por peso de cada paquete así que deben calcular el peso de los tambores y patinetes que saldrán en cada paquete
+a demanda. Cada tambor pesa 112 g y cada patinete 975 g. Escribir un programa que pida el número de tambores y patinetes vendidos
+y calcule el peso total del paquete que será enviado.
+
+'''
+
 # Precio y descuento
 precio_barra = 0.69
 descuento = 0.60

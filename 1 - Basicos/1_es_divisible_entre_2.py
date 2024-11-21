@@ -1,3 +1,11 @@
+'''
+Ejercicio 1
+Escribe un programa que pida un número y después nos informe si el número es divisible por 2, 
+de no ser así compruebe si es divisible por 3 e informe y si tampoco es así, si es divisible
+por 5 e informe.
+
+'''
+
 # Pedir número por teclado para ver si es divisible entre dos,m 
 try:
     numeroIntroducido = int(input("Introduce un número: "))
